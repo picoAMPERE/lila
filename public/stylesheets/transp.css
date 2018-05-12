@@ -197,3 +197,6 @@ body.transp #perfStat .counter tr.full td:last-child {
 body.transp div.sub_ratings > a.game.active {
   background: rgba(0, 0, 0, 0.5);
 }
+body.transp #hooks_wrap div.tabs a {
+  background: rgba(0, 0, 0, 0.5);
+}
