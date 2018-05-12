@@ -200,3 +200,9 @@ body.transp div.sub_ratings > a.game.active {
 body.transp #hooks_wrap div.tabs a {
   background: rgba(0, 0, 0, 0.5);
 }
+body.transp .donation a {
+  background: rgba(0, 0, 0, 0.25);
+}
+body.transp .donation {
+  background: rgba(0, 0, 0, 0.25);
+}
