@@ -191,3 +191,9 @@ body.transp .action_menu .setting {
 body.transp #analyse-cm {
   color: #888;
 }
+body.transp #perfStat .counter tr.full td:last-child {
+  background: rgba(0, 0, 0, 0.35);
+}
+body.transp div.sub_ratings > a.game.active {
+  background: rgba(0, 0, 0, 0.5);
+}
